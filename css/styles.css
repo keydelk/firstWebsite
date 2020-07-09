@@ -1,0 +1,15 @@
+/* styles.css */
+
+html {
+  font-size: 18px;
+}
+
+body {
+  font-size: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: blue;
+}
