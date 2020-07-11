@@ -1,11 +1,12 @@
 /* styles.css */
 
-body, html {
+body,
+html {
   padding: 3px 3px 3px 3px;
   display: flex;
   flex-direction: column;
   align-items: space-between;
-  background-color: #D8DBE2;
+  background-color: #d8dbe2;
 
   font-family: Verdana, sans-serif;
   font-size: 11pt;
@@ -13,7 +14,7 @@ body, html {
 }
 
 header {
-  background-color: #BEEDED;
+  background-color: #beeded;
 }
 
 h1 {
@@ -26,6 +27,19 @@ p {
   text-align: left;
 }
 
-ul, ol {
+ul,
+ol {
   text-align: left;
+}
+
+table,
+td,
+tr {
+  border: 1px solid black;
+  align-content: center;
+}
+
+td {
+  padding: 5px 30px;
+  text-align: center;
 }
